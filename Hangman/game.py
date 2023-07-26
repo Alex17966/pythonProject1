@@ -16,6 +16,7 @@ class Game:
         self.open_indexes = []
 
         self.word = ''
+        print('HiHi')
 
     def generate_word(self) -> str:
         words = []
