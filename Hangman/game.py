@@ -17,8 +17,6 @@ class Game:
 
         self.word = ''
 
-        print('HIHIHIHI')
-
     def generate_word(self) -> str:
         words = []
         filename = 'data/WordsStockRus.txt'
